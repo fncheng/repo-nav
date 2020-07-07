@@ -9,3 +9,4 @@
 
 - [JavaScript深入系列----------**mqyqingfeng / Blog**](https://github.com/mqyqingfeng/Blog)
 
+- [深入浅出JavaScript系列-----**haizlin/fe-interview**](https://github.com/chenqf/frontEndBlog)
