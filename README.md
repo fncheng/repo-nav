@@ -3,6 +3,7 @@
 ### Vue组件
 
 - [Vue PC 城市选择组件](https://github.com/zky86/regional-selection)
+- [vue-scroll-nav滚动导航组件](https://github.com/pekonchan/scrollNav)
 
 #### 面试题
 
@@ -27,17 +28,20 @@
 
 - [postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport)
 
-### 软件
+- https://github.com/h2y/Shadowrocket-ADBlock-Rules#%E9%BB%91%E5%90%8D%E5%8D%95%E8%BF%87%E6%BB%A4--%E5%B9%BF%E5%91%8A)
 
-- [Powerline 字体安装](https://github.com/powerline/fonts)
-- [Shadow 规则配置(黑名单+白名单)](https://github.com/h2y/Shadowrocket-ADBlock-Rules#%E9%BB%91%E5%90%8D%E5%8D%95%E8%BF%87%E6%BB%A4--%E5%B9%BF%E5%91%8A)
-
-### Project:
+### Project
 - [Web网盘](https://github.com/gonelist/gonelist-web)
 
+## Nodejs
 
+- doctoc
 
 ## 相关生态
 
 [APlayer](https://aplayer.js.org/#/zh-Hans/)
 
+## 软件
+
+- [Powerline 字体安装](https://github.com/powerline/fonts)
+- [Shadow 规则配置(黑名单+白名单)](
